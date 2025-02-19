@@ -6,14 +6,14 @@ Bu proje, derin öğrenme ve pekiştirmeli öğrenme tekniklerini kullanarak yı
 
 ## :clipboard: İçindekiler
 
-1. Proje Hakkında
-2. Kurulum
-3. Kullanım
-4. Kod Yapısı
-5. Eğitim Süreci
-6. Sonuçlar
-7. Katkıda Bulunma
-8. Lisans
+1. [Proje Hakkında](https://github.com/thealper2/snake-ai?tab=readme-ov-file#clipboard-i%CC%87%C3%A7indekiler)
+2. [Kurulum](https://github.com/thealper2/snake-ai?tab=readme-ov-file#hammer_and_wrench-kurulum)
+3. [Kullanım](https://github.com/thealper2/snake-ai?tab=readme-ov-file#joystick-kullan%C4%B1m)
+4. [Kod Yapısı](https://github.com/thealper2/snake-ai?tab=readme-ov-file#jigsaw-kod-yap%C4%B1s%C4%B1)
+5. [Eğitim Süreci](https://github.com/thealper2/snake-ai?tab=readme-ov-file#mortar_board-e%C4%9Fitim-s%C3%BCreci)
+6. [Sonuçlar](https://github.com/thealper2/snake-ai?tab=readme-ov-file#bar_chart-sonu%C3%A7lar)
+7. [Katkıda Bulunma](https://github.com/thealper2/snake-ai?tab=readme-ov-file#handshake-katk%C4%B1da-bulunma)
+8. [Lisans](https://github.com/thealper2/snake-ai?tab=readme-ov-file#scroll-lisans)
 
 ---
 
